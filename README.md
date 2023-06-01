@@ -21,11 +21,11 @@ mpg | miles per gallon of car (target)
 engineSize | size of engine in cubic litres
 
 **Attribute** | **Description**  
---- | ---
-Item_Identifier | individual item number
-Item_Weight     | weight of item
-Item_Fat_Content | description of fat (high or low fat content}             
-Item_Visibility              float64
+--- | --- | ---
+Item_Identifier | float | individual item number
+Item_Weight | float|  weight of item
+Item_Fat_Content | object| description of fat (high or low fat content}             
+Item_Visibility | float64 | 
 Item_Type                     object
 Item_MRP                     float64
 Outlet_Identifier             object
