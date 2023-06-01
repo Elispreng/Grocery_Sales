@@ -20,7 +20,7 @@ tax | tax paid on car at last sale
 mpg | miles per gallon of car (target)
 engineSize | size of engine in cubic litres
 
-**Attribute** | **Description**  
+**Attribute** | **Attribute** | **Description**  
 --- | --- | ---
 Item_Identifier | float | individual item number
 Item_Weight | float|  weight of item
