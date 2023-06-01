@@ -14,4 +14,8 @@ mileage | current mileage of the car
 fuelType | fuel type the car runs on
 tax | tax paid on car at last sale
 mpg | miles per gallon of car (target)
+mileage | current mileage of the car
+fuelType | fuel type the car runs on
+tax | tax paid on car at last sale
+mpg | miles per gallon of car (target)
 engineSize | size of engine in cubic litres
