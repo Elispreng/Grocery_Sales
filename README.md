@@ -1,5 +1,9 @@
 # Grocery Sales
- Updated Dojo Project
+ Updated Dojo Project 
+ 
+ # Summary
+This analysis explores the  sales of supermarket/grocery items in select stores belonging to the international chain Big Mart during 2013.
+In this presentation there are exploratory/explanatoryu data visuals and machine learning. 
 
 ### Data:
 Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About
