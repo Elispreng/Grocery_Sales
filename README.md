@@ -1,6 +1,14 @@
 # Grocery Sales
  Updated Dojo Project
 
+### Data:
+Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About
+
+
+## Methods
+- To perform this analysis the data was cleaned and then exploratory and explanatory visuals offer insights
+- Machine learning using regression metrics provides another way to understand grocery sales. 
+
 
 
 ### **Data Dictionary:**
