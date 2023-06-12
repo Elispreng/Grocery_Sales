@@ -2,6 +2,7 @@
 # Grocery Sales
  # Updated Dojo Project 
  **Eli Spreng**: 
+ <img src="https://learn.g2.com/hubfs/shopper%20marketing.jpg" width="300" height="200">
  # Summary
 This analysis explores the  sales of supermarket/grocery items in select stores belonging to the international chain Big Mart during 2013.
 In this presentation there are exploratory/explanatoryu data visuals and machine learning. 
@@ -38,8 +39,6 @@ Outlet_Size | object | size of store
 Outlet_Location_Type |object| geographical location zone
 Outlet_Type  |object| grocery of supermarket
 Item_Outlet_Sales |float64| item sales
-
-<img src="https://learn.g2.com/hubfs/shopper%20marketing.jpg" width="250" height="200">
 
 
 ## Results
