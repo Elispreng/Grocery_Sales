@@ -40,6 +40,7 @@ Outlet_Type  |object| grocery of supermarket
 Item_Outlet_Sales |float64| item sales
 
 ![image](https://learn.g2.com/hubfs/shopper%20marketing.jpg | width = 100)
+<img src="learn.g2.com/hubfs/shopper%20marketing.jpg" width="100" height="100">
 
 
 ## Results
