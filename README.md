@@ -39,7 +39,7 @@ Outlet_Location_Type |object| geographical location zone
 Outlet_Type  |object| grocery of supermarket
 Item_Outlet_Sales |float64| item sales
 
-![alt text](https://learn.g2.com/hubfs/shopper%20marketing.jpg | width =100)
+![image](https://learn.g2.com/hubfs/shopper%20marketing.jpg)
 
 
 ## Results
