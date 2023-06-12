@@ -1,6 +1,6 @@
 # Currently under construction
 # Grocery Sales
- Updated Dojo Project 
+ # Updated Dojo Project 
  **Eli Spreng**: 
  # Summary
 This analysis explores the  sales of supermarket/grocery items in select stores belonging to the international chain Big Mart during 2013.
@@ -39,7 +39,7 @@ Outlet_Location_Type |object| geographical location zone
 Outlet_Type  |object| grocery of supermarket
 Item_Outlet_Sales |float64| item sales
 
-![image](https://learn.g2.com/hubfs/shopper%20marketing.jpg)
+![image](https://learn.g2.com/hubfs/shopper%20marketing.jpg =100 X 100)
 
 
 ## Results
