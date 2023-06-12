@@ -73,22 +73,25 @@ This bar graph answers the question "What  year has the tighest MRP?" The highes
  - R2: 1.0
 
 ### Decision Tree Model Test Scores
- - MAE: 992.5956 
- - MSE: 2103175.480
- - RMSE: 1450.2329
+ - MAE: 992.59
+ - MSE: 2103175.48
+ - RMSE: 1450.23
  - R2: 0.2376974
 
 ### Bagged Trees Model Train Scores
- -  MAE: 316.5676
- -  MSE: 240010.0091
- -  RMSE: 489.9082
- -  R2: 0.9189006
+ -  MAE: 316.56
+ -  MSE: 240010.01
+ -  RMSE: 489.91
+ -  R2: 0.91
 
 ### Bagged Trees Model Test Scores
- - MAE: 785.6302
- - MSE: 1279423.2806
- - RMSE: 1131.1159
- - R2: 0.536269
+ - MAE: 785.63
+ - MSE: 1279.28
+ - RMSE: 1131.11
+ - R2: 0.53
+
+
+The Decision Tree model is the top performer between the  models utilized to attempt to predict item sales. However, the size of the errors in the model limit its usefulness. At best it could potentially account for around 60% of the item price based on the accompanying data.
 
 ## Recommendations:
 
