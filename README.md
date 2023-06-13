@@ -58,10 +58,10 @@ This bar graph answers the question "What  year has the tighest MRP?" The highes
 #### Visual 3: Top Perfomers of Item Type by Store
 ![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Bar%20Plot%20for%20Item%20Type%20%20and%20Store%20Number.png)
 
-#### Visual 3: Bar Graph  of Top Selling Store with Year (Tableau)
+#### Visual 4: Bar Graph  of Top Selling Store with Year (Tableau)
 ![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Best%20Performing%20Store%20with%20Year%20Tableau.png)
 
-#### Visual 4 Bar Graph of Top Selling Item Type (Tableau)
+#### Visual 5 Bar Graph of Top Selling Item Type (Tableau)
 ![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Item%20Type.png)
 
 # Machine Learning
@@ -173,8 +173,11 @@ Starchy Foods, Hard Drinks, and Baking Goods
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/LIME_HighMRP2.png)
 
 #### Interpretation of Forceplot 
-In this case, feature 'Item MRP' and 'Outlet Size small' have a positive impact on the prediction, while 'Item Weight' and 'Item Visibility' have a negative impact on the prediction.
+In this case, feature 'Item MRP' and 'Outlet Size small' have a positive impact on the prediction, while 'Item Weight' and 
+'Item Visibility' have a negative impact on the prediction.
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/Force_Plot_High_MRP)
+
+# Tableau Dashboard
 
 
 ### For further information
