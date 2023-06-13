@@ -49,12 +49,18 @@ Item_Outlet_Sales |float64| item sales
 
 The graph addresses answers the question "What year has the highest item  sales?" The highest item sales were in 2004.
 
-#### Visual 2 Bar  Graph Showing Outlet Year and MRP
+#### Visual 2: Bar Bar Graph Showing Outlet Year and MRP
 
 ![alt text](https://github.com/Elispreng/Project-1-Food-Sales-and-Store-Cultures/blob/main/Spreng%20Outlet%20Year%20and%20MRP.png)
 
 
-This bar graph answers the question "What  year has the tighest MRP?" The highest MRP was in 2004
+This bar graph answers the question "What  year has the tighest MRP?" The highest MRP was in 2004.
+#### Visual 3: Bar Graph  of Top Selling Store (Tableau)
+
+#### Visual 4 Bar Graph of Top Selling Item Type
+
+
+
 # Machine Learning
 
 ## Machine learning and metrics
