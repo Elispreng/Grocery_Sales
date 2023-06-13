@@ -55,11 +55,14 @@ The graph addresses answers the question "What year has the highest item  sales?
 
 
 This bar graph answers the question "What  year has the tighest MRP?" The highest MRP was in 2004.
-#### Visual 3: Bar Graph  of Top Selling Store (Tableau)
+#### Visual 3: Top Perfomers of Item Type by Store
+![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Bar%20Plot%20for%20Item%20Type%20%20and%20Store%20Number.png)
 
-#### Visual 4 Bar Graph of Top Selling Item Type
+#### Visual 3: Bar Graph  of Top Selling Store with Year (Tableau)
+![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Best%20Performing%20Store%20with%20Year%20Tableau.png)
 
-
+#### Visual 4 Bar Graph of Top Selling Item Type (Tableau)
+![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Item%20Type.png)
 
 # Machine Learning
 
