@@ -4,7 +4,9 @@
  
  <img src="https://learn.g2.com/hubfs/shopper%20marketing.jpg" width="300" height="200">
  
-![alt text](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png, width="300" height="200" )
+![alt text](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png)
+
+ <img src="https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png" width="300" height="200">
 
 # Summary
 This analysis explores the  sales of supermarket/grocery items in select stores belonging to the international chain Big Mart during 2013.
