@@ -3,6 +3,7 @@
  **Eli Spreng**: 
  
  <img src="https://learn.g2.com/hubfs/shopper%20marketing.jpg" width="300" height="200">
+ 
 ![alt text](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png)
 
 # Summary
@@ -10,7 +11,7 @@ This analysis explores the  sales of supermarket/grocery items in select stores 
 In this presentation there are exploratory/explanatoryu data visuals and machine learning. 
 
 ### Data:
-Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About
+[Big Market Sales Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About)
 
 ### Business problem:
 
