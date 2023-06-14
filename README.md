@@ -1,15 +1,15 @@
 # Currently under construction
 # Grocery Sales: Updated Dojo Project 
  **Eli Spreng**: 
- 
- <img src="https://learn.g2.com/hubfs/shopper%20marketing.jpg" width="300" height="200">
+  
+ <img src="https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png" width="300" height="200">
 
 # Summary
 This analysis explores the  sales of supermarket/grocery items in select stores belonging to the international chain Big Mart during 2013.
 In this presentation there are exploratory/explanatoryu data visuals and machine learning. 
 
 ### Data:
-Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About
+[Big Market Sales Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About)
 
 ### Business problem:
 
@@ -178,7 +178,7 @@ In this case, feature 'Item MRP' and 'Outlet Size small' have a positive impact 
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/Force_Plot_High_MRP)
 
 # Tableau Dashboard
-
+[See the Dashboard](https://public.tableau.com/views/GrocerySales_16866134110060/BigMart?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### For further information
 
