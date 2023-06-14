@@ -1,11 +1,7 @@
 # Currently under construction
 # Grocery Sales: Updated Dojo Project 
  **Eli Spreng**: 
- 
- <img src="https://learn.g2.com/hubfs/shopper%20marketing.jpg" width="300" height="200">
- 
-![alt text](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png)
-
+  
  <img src="https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png" width="300" height="200">
 
 # Summary
