@@ -180,6 +180,9 @@ In this case, feature 'Item MRP' and 'Outlet Size small' have a positive impact 
 # Tableau Dashboard
 [See the Dashboard](https://public.tableau.com/views/GrocerySales_16866134110060/BigMart?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+![alttext](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Dashboard.png)
+
+
 ### For further information
 
 
