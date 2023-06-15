@@ -1,6 +1,5 @@
 # Currently under construction
-# Grocery Sales: Updated Dojo Project 
- **Eli Spreng**: 
+# Grocery Sales: Updated Coding Dojo Project by Eli Spreng
   
  <img src="https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png" width="300" height="200">
 
