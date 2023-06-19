@@ -5,7 +5,7 @@
 
 # Summary
 This analysis explores the  sales of supermarket/grocery items in select stores belonging to the international chain Big Mart during 2013.
-In this presentation there are exploratory/explanatoryu data visuals and machine learning. 
+In this presentation there are exploratory/explanatory data visuals using Python, Seaborn and Tableau. This project also utilizes machine learning. feature importance and coefficients using SHAP summary plots and LIME analytics. 
 
 ### Data:
 [Big Market Sales Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About)
@@ -53,7 +53,7 @@ The graph addresses answers the question "What year has the highest item  sales?
 ![alt text](https://github.com/Elispreng/Project-1-Food-Sales-and-Store-Cultures/blob/main/Spreng%20Outlet%20Year%20and%20MRP.png)
 
 
-This bar graph answers the question "What  year has the tighest MRP?" The highest MRP was in 2004.
+This bar graph answers the question "What  year has the highest MRP?" The highest MRP was in 2004.
 #### Visual 3: Top Perfomers of Item Type by Store
 ![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Bar%20Plot%20for%20Item%20Type%20%20and%20Store%20Number.png)
 
@@ -121,7 +121,7 @@ This project will include more graphics. Another limitation is the regression me
 - Outlet Locaion:  where the supermarket is  affects sales. 
 
 
-#### Visual 2: Bar Graph Showing Top  Features for Random Forest
+#### Visual 2: Bar Graph Showing Top Features for Random Forest
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/Feature%20Importance%20for%20Random%20Forest.png)
 
 #### Interpretation  of Top 5 Features for Random Forest
@@ -135,7 +135,7 @@ This project will include more graphics. Another limitation is the regression me
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/Shap%20Bar%20Plot.png)
 
 ### Feature Comparison
--The feature comparisons with Shap are  almost the same. The only difference is the fifth feature. In  Shap, it is Outlet type and and in the original random forest  the fifth feature was snack foods. 
+-The feature comparisons with Shap are  almost the same. The only difference is the fifth feature. In  Shap, it is Outlet type and and in the original random forest  and the fifth feature was snack foods. 
 
 #### Visual 4: Shap Summary Dot Plot
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/Shap%20Summary%20Plot2.png)
@@ -165,9 +165,9 @@ Orange signifies the positive impact and blue signifies the negative impact of t
 #### The predicted sales value is 260.93
   - Orange signifies the positive impact and blue signifies the negative impact of that feature on the target.
  - Positive impact on sales prediction
-Item MRP, Item Visibillity, and Supermarket type 2
+    - Item MRP, Item Visibillity, and Supermarket type 2
  - Negative impact on sales prediction
-Starchy Foods, Hard Drinks, and Baking Goods
+    - Starchy Foods, Hard Drinks, and Baking Goods
 
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/LIME_HighMRP2.png)
 
