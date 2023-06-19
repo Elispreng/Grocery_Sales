@@ -153,7 +153,7 @@ Orange signifies the positive impact and blue signifies the negative impact of t
 - Top 3 Positive impact on sales prediction 
   - item type of meat, supermarket type 2, location/tier 3 and frozen foods. 
 - Top 3 Negative impact on sales prediction
- -  Item MRP, Breakfast, Snack Foods 
+  - Item MRP, Breakfast, Snack Foods 
 
 ### Interpretation of Force Plot
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/HighVizForcePlot.png)
@@ -167,7 +167,7 @@ Orange signifies the positive impact and blue signifies the negative impact of t
  - Positive impact on sales prediction
     - Item MRP, Item Visibillity, and Supermarket type 2
  - Negative impact on sales prediction
-    - Starchy Foods, Hard Drinks, and Baking Goods
+     - Starchy Foods, Hard Drinks, and Baking Goods
 
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/LIME_HighMRP2.png)
 
