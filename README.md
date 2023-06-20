@@ -5,7 +5,7 @@
 
 # Summary
 This analysis explores the  sales of supermarket/grocery items in select stores belonging to the international chain Big Mart during 2013.
-In this presentation there are exploratory/explanatory data visuals using Python, Seaborn and Tableau. This project also utilizes machine learning. feature importance and coefficients using SHAP summary plots and LIME analytics. 
+In this presentation there are exploratory/explanatory data visuals using Python, Seaborn and Tableau. This project also utilizes machine learning. feature importance, and coefficients using SHAP summary plots and LIME analytics. 
 
 ### Data:
 [Big Market Sales Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#About)
