@@ -1,4 +1,4 @@
-# Grocery Sales: Updated Coding Dojo Project by Eli Spreng
+# Grocery Sales: Updated Coding Dojo Project (June 2023) by Eli Spreng
   
  <img src="https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Big%20Mart%20.png" width="300" height="200">
 
