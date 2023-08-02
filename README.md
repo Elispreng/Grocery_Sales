@@ -43,12 +43,12 @@ Item_Outlet_Sales |float64| item sales
 # Exploratory Data Analysis
 
 #### Visual 1: Bar Graph Showing Outlet Year and Sales
-![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Bar%20Plot%20for%20Item%20MRP%20and%20Year.png)
+![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Bar%20Plot%20for%20Sales%20and%20Year.png)
 The graph addresses answers the question "What year has the highest item  sales?" The highest item sales were in 2004.
 
 #### Visual 2: Bar Bar Graph Showing Outlet Year and MRP
 
-![alt text](https://github.com/Elispreng/Project-1-Food-Sales-and-Store-Cultures/blob/main/Spreng%20Outlet%20Year%20and%20MRP.png)
+![image](https://github.com/Elispreng/Grocery_Sales/blob/main/Images/Bar%20Plot%20for%20Item%20MRP%20and%20Year.png)
 
 
 This bar graph answers the question "What  year has the highest MRP?" The highest MRP was in 2004.
