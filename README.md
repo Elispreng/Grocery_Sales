@@ -11,15 +11,14 @@ In this presentation there are exploratory/explanatory data visuals using Python
 
 ### Business problem:
 
-In looking at grocery sales, interested parties want to know what will will increase sales. This project analyzes what factors have the greatest impact on 
-grocery outlet sales.
+In looking at grocery sales, interested parties want to know what will will increase sales. This project analyzes what factors have the greatest
+impact on grocery outlet sales.
 
 ## Methods
 - To perform this analysis the data was cleaned and then exploratory and explanatory visuals offer insights
 - Machine learning using regression metrics provides another way to understand grocery sales. 
 - Deeper Analysis includes SHAP summary and LIME metrics
 - Tableau visuals offer another way to visualize the data. 
-
 
 
 ### **Data Dictionary:**
